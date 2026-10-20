@@ -1,8 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="14" fill="#09232d"/>
-  <rect x="5" y="5" width="54" height="54"
-        rx="10" fill="none" stroke="#d5aa61" stroke-width="2"/>
-  <text x="32" y="45" text-anchor="middle"
-        font-family="Georgia,serif" font-size="39"
-        font-weight="bold" fill="#f6dfac">G</text>
+  <rect width="64" height="64" rx="14" fill="#081b29"/>
+  <rect
+    x="3" y="3" width="58" height="58" rx="11"
+    fill="none" stroke="#d5aa61" stroke-width="3"
+  />
+  <path
+    d="M45 22
+       C42 17 37 15 32 15
+       C22 15 16 22 16 32
+       C16 42 22 49 32 49
+       C38 49 43 47 46 43
+       V32 H33"
+    fill="none"
+    stroke="#f6dfac"
+    stroke-width="7"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
 </svg>
